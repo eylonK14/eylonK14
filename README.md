@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About  Me:
 - 🌱 I’m currently learning B.Cs Computer Science at Ariel University.
-- 👀 Interested in Cybersecurity and Low-level Development.
+- 👀 Interested in Cybersecurity, Reasearch and Development.
 
 ### My Stats:
 
